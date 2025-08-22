@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.43, for Win64 (x86_64)
 --
--- Host: localhost    Database: testevaluacion_final
+-- Host: localhost    Database: new_schema
 -- ------------------------------------------------------
 -- Server version	8.0.43
 
@@ -409,4 +409,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-08-21 22:52:31
+-- Dump completed on 2025-08-22  0:06:39
