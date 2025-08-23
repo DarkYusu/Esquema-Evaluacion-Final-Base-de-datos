@@ -25,7 +25,10 @@
 
 👥 Autores
 
-  Bárbara Cerda
-  Rodrigo Cañas
-  Matias Galiano
-  Antonio Badilla
+Bárbara Cerda
+
+Rodrigo Cañas
+  
+Matias Galiano
+
+Antonio Badilla
